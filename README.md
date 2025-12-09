@@ -36,12 +36,3 @@
 - 🌍 **Fullstack** : conception, intégration et déploiement  
 - 🛠️ **Linux, Git**, optimisation de workflow  
 
----
-
-## 📈 Statistiques GitHub *(facultatif)*
-
-```md
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bozeyy&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bozeyy&layout=compact&theme=tokyonight" />
-</p>
